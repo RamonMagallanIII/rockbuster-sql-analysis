@@ -26,23 +26,6 @@ The analysis was guided by the following management questions:
   • Excel, Powerpoint, and Word for presenting the final results
   • Markdown for project documentation
 
-# Project Structure
-## rockbuster-sql-analysis/
-|
-├── sql/
-| ├── revenue_by_movie.sql
-| ├── rental_duration_summary.sql
-| ├── customer_country_distribution.sql
-| ├── high_value_customers.sql
-| └── regional_sales_comparison.sql
-|
-| ├──  documentation/
-| ├── rockbuster_data_dictionary.docx
-| ├── rockbuster_presentation.pptx
-| ├── rockbuster_final_tables.xlsx
-|
-└── README.md
-
 ## Insights & Outcomes
  • Identified top-gross titles and underperforming content, informing content investment priorities.
  • Uncovered customer concentration in key global markets.
