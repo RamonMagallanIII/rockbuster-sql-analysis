@@ -56,7 +56,7 @@ The analysis was guided by the following management questions:
  • Data dictionary and ERD to support reproducibility and collaboration
 
 ## Additional Resources
-  • [Presentation Slides (PPTX)]([rockbuster_presentation.pptx](https://github.com/user-attachments/files/20302491/rockbuster_presentation.pptx))
-  • [Final Data Tables (Excel)]([rockbuster_final_tables.xlsx](https://github.com/user-attachments/files/20302467/rockbuster_final_tables.xlsx))
-  • [Data Dictionary (DOCX)]([rockbuster_data_dictionary.docx](https://github.com/user-attachments/files/20302502/rockbuster_data_dictionary.docx))
+  • [Presentation Slides (PPTX)](https://github.com/user-attachments/files/20302491/rockbuster_presentation.pptx)
+  • [Final Data Tables (Excel)](https://github.com/user-attachments/files/20302467/rockbuster_final_tables.xlsx)
+  • [Data Dictionary (DOCX)](https://github.com/user-attachments/files/20302502/rockbuster_data_dictionary.docx)
       
