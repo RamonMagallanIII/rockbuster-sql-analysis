@@ -35,7 +35,7 @@ The analysis was guided by the following management questions:
  
 ## Final Deliverables
  • SQL Queries: Answering business-critical questions using joins, aggregations, subqueries
- • Businesss Presentation: Strategic recommendations for Rockbuster's digital launch
+ • Business Presentation: Strategic recommendations for Rockbuster's digital launch
  • Supporting Docs: ERD & Data Dictionary for reproducibility
 
 ## Additional Resources
