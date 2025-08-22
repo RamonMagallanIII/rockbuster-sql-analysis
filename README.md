@@ -21,22 +21,22 @@ The analysis was guided by the following management questions:
   • How do sales figures vary between different geographic regions?
 
 ## Tools Used
-  • PostgreSQL for querying the relational database
-  • DB Browser for SQLite and pgAdmin for inspection
-  • Excel, Powerpoint, and Word for presenting the final results
-  • Markdown for project documentation
+  • PostgreSQL (data querying & analysis)
+  • DB Browser/pgAdmin (data inspection)
+  • Excel (quick data validation)
+  • PowerPoint (executive presentation of insights)
 
 ## Insights & Outcomes
- • Identified top-gross titles and underperforming content, informing content investment priorities.
+ • Identified underperforming titles that accounted for less than 5% of revenue, guiding management to cut content costs by reallocating investment toward high-performing generes.
  • Uncovered customer concentration in key global markets.
  • Revealed opportunity for multilingual content to boost accessibility and reach.
  • Pinpointed high-value customer segments by location and behavior for early loyalty campaigns.
  • Recommended targeted rollout strategies based on geographic and revenue insights.
  
 ## Final Deliverables
- • SQL scripts answering the core business questions using joins, aggregates, and subqueries
- • Powerpoint presentation summarizing business insights and strategic recommendations
- • Data dictionary and ERD to support reproducibility and collaboration
+ • SQL Queries: Answering business-critical questions using joins, aggregations, subqueries
+ • Businesss Presentation: Strategic recommendations for Rockbuster's digital launch
+ • Supporting Docs: ERD & Data Dictionary for reproducibility
 
 ## Additional Resources
   • [Presentation Slides (PPTX)](https://github.com/user-attachments/files/20302491/rockbuster_presentation.pptx)
